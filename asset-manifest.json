@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sanjana-balaji/static/css/main.45d36f47.css",
+    "main.js": "/sanjana-balaji/static/js/main.06412946.js",
+    "static/media/sanjana.png": "/sanjana-balaji/static/media/sanjana.7052717b43d028003778.png",
+    "static/media/Resume.pdf": "/sanjana-balaji/static/media/Resume.80ddf58e6dbd82f22cb1.pdf",
+    "static/media/project-rental.PNG": "/sanjana-balaji/static/media/project-rental.282239844327ee818a23.PNG",
+    "static/media/project-chat.PNG": "/sanjana-balaji/static/media/project-chat.5856cae76a6f99927f3d.PNG",
+    "static/media/project-vaccine.PNG": "/sanjana-balaji/static/media/project-vaccine.fe589d63fe0e9de626bd.PNG",
+    "static/media/sanjana-about.jpg": "/sanjana-balaji/static/media/sanjana-about.1fc43bbd2ba478565efe.jpg",
+    "index.html": "/sanjana-balaji/index.html",
+    "main.45d36f47.css.map": "/sanjana-balaji/static/css/main.45d36f47.css.map",
+    "main.06412946.js.map": "/sanjana-balaji/static/js/main.06412946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d36f47.css",
+    "static/js/main.06412946.js"
+  ]
+}
